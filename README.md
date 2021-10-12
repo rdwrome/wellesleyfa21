@@ -2,7 +2,7 @@
 
 ## [SuperCollider Bridge Game Sonification](bridgegame.scd)
 
-## [SuperCollider and Wage Information](https://clockwork.scholarslab.org/sonification/)
+## [SuperCollider and Wage Information Collaboration](https://clockwork.scholarslab.org/sonification/)
 
 ## [Overmorrow](http://racheldevorah.studio/works/overmorrow/)
 
